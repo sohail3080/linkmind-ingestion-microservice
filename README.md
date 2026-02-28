@@ -17,6 +17,12 @@ The transformation from monolith to microservices was a deliberate learning exer
 - Service decoupling and fault tolerance
 - Real-world distributed system patterns
 
+# Links to different services: 
+
+- [Embedding-microservice](https://github.com/sohail3080/linkmind-embedding-microservice.git)
+<!-- - [Ingestion-microservice](https://github.com/sohail3080/linkmind-ingestion-microservice.git) -->
+- [Query-microservice](https://github.com/sohail3080/linkmind-query-microservice.git)
+
 ---
 
 ## Architecture Overview
