@@ -1,3 +1,5 @@
+This is ingestion microservice for the project:
+
 # RAG-Powered News Q&A — Microservices (Ingestion, Embedding, Query) 
 
 Backend for saving news URLs and querying them with AI-powered search. Built as **three microservices** communicating via **Kafka** (Aiven free tier) and sharing a **Qdrant** vector store.
